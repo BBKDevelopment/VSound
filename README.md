@@ -35,6 +35,22 @@
 
 &nbsp;
 
+<p align=right>Nov 17, 2021</p>
+<p align=left>1.0.2</p> 
+
+Release notes:
+
+- Changed application's theme.
+- Changed application's logo.
+- Updated the packages.
+- Updated the Privacy Policy and Terms' links.
+- Fixed wrong subject detail in the mail.
+- Fixed some minor bugs.
+
+&nbsp;
+
+&nbsp;
+
 <p align=right>Sep 11, 2021</p>
 <p align=left>1.0.1</p> 
 
