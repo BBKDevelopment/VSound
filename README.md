@@ -35,6 +35,21 @@
 
 &nbsp;
 
+<p align=right>Dec 01, 2021</p>
+<p align=left>1.1.0</p> 
+
+Release notes:
+
+- Added animations.
+- Made some changes to the user interface.
+- Fixed a bug that cause a crash when there is no sound to access.
+- Updated Application Logo.
+- Updated the packages.
+
+&nbsp;
+
+&nbsp;
+
 <p align=right>Nov 17, 2021</p>
 <p align=left>1.0.2</p> 
 
