@@ -35,6 +35,20 @@
 
 &nbsp;
 
+<p align=right>Mar 21, 2022</p>
+<p align=left>1.1.1</p> 
+
+Release notes:
+
+- Changed application's logo.
+- Updated animation's duration.
+- Updated icons.
+- Updated the packages.
+
+&nbsp;
+
+&nbsp;
+
 <p align=right>Dec 01, 2021</p>
 <p align=left>1.1.0</p> 
 
@@ -43,7 +57,7 @@ Release notes:
 - Added animations.
 - Made some changes to the user interface.
 - Fixed a bug that cause a crash when there is no sound to access.
-- Updated Application Logo.
+- Changed application's logo.
 - Updated the packages.
 
 &nbsp;
