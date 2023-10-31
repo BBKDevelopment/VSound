@@ -1,0 +1,122 @@
+name: vsound
+description: An audio modifier app created by BBK Development.
+version: 1.1.1+7
+publish_to: none
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+  flutter: ">=3.13.5"
+
+dependencies:
+  audio_player_service:
+    git:
+      url: https://github.com/BBKDevelopment/Audio-Player-Service.git
+      ref: v1.0.0
+  bloc: ^8.1.2
+  bottom_navy_bar: ^6.0.0
+  collection: ^1.17.2
+  cupertino_icons: ^1.0.6
+  dartz: ^0.10.1
+  dotted_border: ^2.1.0
+  ffmpeg_kit_flutter_https_gpl: ^6.0.3
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  flutter_localizations:
+    sdk: flutter
+  flutter_native_splash: ^2.3.4
+  flutter_svg: ^2.0.2
+  freezed_annotation: ^2.4.1
+  get: ^4.6.6
+  get_it: ^7.6.4
+  image_gallery_saver: ^2.0.3
+  intl: ^0.18.1
+  launch_review_service:
+    git:
+      url: https://github.com/BBKDevelopment/Launch-Review-Service.git
+      ref: v1.0.0
+  modal_bottom_sheet: ^3.0.0-pre
+  nil: ^1.1.1
+  path: ^1.8.3
+  path_provider: ^2.1.1
+  photo_manager: ^2.7.2
+  photo_manager_service:
+    git:
+      url: https://github.com/BBKDevelopment/Photo-Manager-Service.git
+      ref: v1.0.0
+  scroll_to_index: ^3.0.1
+  shared_preferences: ^2.2.2
+  shared_preferences_service:
+    git:
+      url: https://github.com/BBKDevelopment/Shared-Preferences-Service.git
+      ref: v1.0.0
+  sizer: ^2.0.15
+  text_scroll: ^0.2.0
+  url_launcher_service:
+    git:
+      url: https://github.com/BBKDevelopment/Url-Launcher-Service.git
+      ref: v1.0.0
+  video_player: ^2.7.0
+  video_player_service:
+    git:
+      url: https://github.com/BBKDevelopment/Video-Player-Service.git
+      ref: v1.0.0
+  wakelock_service:
+    git:
+      url: https://github.com/BBKDevelopment/Wakelock-Service.git
+      ref: v1.0.0
+
+dev_dependencies:
+  bloc_test: ^9.1.4
+  build_runner: ^2.3.3
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+  freezed: ^2.4.5
+  mocktail: ^1.0.0
+  very_good_analysis: ^5.1.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: RobotoMono
+      fonts:
+        - asset: assets/fonts/RobotoMono-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/RobotoMono-ThinItalic.ttf
+          weight: 100
+          style: italic
+        - asset: assets/fonts/RobotoMono-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/RobotoMono-ExtraLightItalic.ttf
+          weight: 200
+          style: italic
+        - asset: assets/fonts/RobotoMono-Light.ttf
+          weight: 300
+        - asset: assets/fonts/RobotoMono-LightItalic.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/RobotoMono-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/RobotoMono-Italic.ttf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/RobotoMono-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/RobotoMono-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/RobotoMono-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/RobotoMono-SemiBoldItalic.ttf
+          weight: 600
+          style: italic
+        - asset: assets/fonts/RobotoMono-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/RobotoMono-BoldItalic.ttf
+          weight: 700
+          style: italic
