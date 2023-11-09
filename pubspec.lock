@@ -747,10 +747,10 @@ packages:
     dependency: "direct main"
     description:
       name: photo_manager
-      sha256: "41eaa1d1fa51bac1c8f2f6debfd34074edcc6b330aa96bb3d33c3bc2fc6c8a5c"
+      sha256: c1f21882f22c97cc85a8a67b08d7b979a03c9b7f18f940c10c6860b3a49581d3
       url: "https://pub.dev"
     source: hosted
-    version: "2.7.2"
+    version: "2.8.0"
   photo_manager_service:
     dependency: "direct main"
     description:
